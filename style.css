@@ -1,0 +1,17 @@
+
+
+h1, h2, p {
+    color: black;
+}
+
+@media (min-width: 320px) and (max-width: 400px)  {
+    header {
+    
+        display: flex;
+        align-items: center;
+        flex-direction: column;
+        
+    }
+
+
+}
